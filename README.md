@@ -95,10 +95,3 @@ After the convolutional layers, the feature maps are flattened into a single vec
 3. **Prediction**:
    - The CNN outputs the predicted number based on the hand gesture.
 
-### **Summary**
-
-The architecture of the hand gesture number detection system can be broken into two components:
-- **Hand segmentation and preprocessing** using OpenCV.
-- **Number classification using a CNN model** that takes the segmented hand image and predicts the corresponding number (1 to 6).
-
-This combination of computer vision and neural networks enables real-time recognition of numbers from hand gestures.
