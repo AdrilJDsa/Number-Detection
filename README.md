@@ -1,5 +1,5 @@
 # Number-Detection-Using-Hand-Gestures
-The **hand gesture number detection** system you provided uses a combination of **computer vision** (OpenCV) and a **convolutional neural network (CNN)** to recognize numbers based on hand gestures. Below is an explanation of the architecture used for hand gesture-based number detection:
+The **hand gesture number detection** system uses a combination of **computer vision** (OpenCV) and a **convolutional neural network (CNN)** to recognize numbers based on hand gestures. Below is an explanation of the architecture used for hand gesture-based number detection:
 
 ### **Overview of the System**
 
